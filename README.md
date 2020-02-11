@@ -1,2 +1,2 @@
 # udacity_dsnd
-Udacity Data Scientist Nano-degree 
+collection of 'Udacity Data Scientist Nano-degree' projects and excercises 
