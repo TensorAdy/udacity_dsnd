@@ -1,4 +1,4 @@
-# Understanding Netflix Movies and Tvshows 
+# Understanding Netflix Movies and TV Shows 
 ## Project Motivation 
 Utilizing CRISP-DM, explore the dataset containing tv shows and movies available on Netflix as of 2019 as a part of Udacity's [Data Science Nanodegree](https://in.udacity.com/course/data-scientist-nanodegree--nd025) 
 The data for analyis is from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
