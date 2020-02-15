@@ -16,7 +16,7 @@ The data for analyis is from [Kaggle](https://www.kaggle.com/shivamb/netflix-sho
 * nltk
 ### File descriptions :
 * netflix_titles.csv is the dataset used for analysis
-* Netflix_2019 .ipynb is the analyis
+* Netflix_2019 .ipynb is the analysis
 ### Results :
 The key learnings from the analysis are :
 * The most content on Netflix is avilable in United States both for TV Shows as well as Movies
