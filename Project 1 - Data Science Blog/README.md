@@ -24,7 +24,7 @@ The key learnings from the analysis are :
 * Based on the description provided for each Movie and TV Show one can utlize NLP techniques to build a performing recommender system
 * There are more TV Shows than Movies for the 'TV-Y7' rating that's suitable for children 
 The findings can be found in the Jupyter Notebook 
-[Netflix_2019](../blob/udacity_dsnd/Project 1 - Data Science Blog/Netflix_2019 .ipynb)
+[Netflix_2019](../blob/master/Netflix_2019 .ipynb)
 
 ### Licensing Acknowledgements
 Thanks to Kaggle for providing the dataset through the community
