@@ -6,4 +6,27 @@ The data for analyis is from [Kaggle](https://www.kaggle.com/shivamb/netflix-sho
 * Which countries are have the most content on Netflix?
 * How is the Nextflix content growing with regards to Movies and TV Shows?
 * Which are the Top TV Shows by season ?
-* Can you build a simple recommender for shows and movies? if so build one 
+* Can you build a simple recommender for TV shows and movies? if so build one 
+### Installation :
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* sklearn
+* nltk
+### File descriptions :
+* netflix_titles.csv is the dataset used for analysis
+* Netflix_2019 .ipynb is the analyis
+### Results :
+The key learnings from the analysis are :
+* The most content on Netflix is avilable in United States both for TV Shows as well as Movies
+* The Movies added to Nexflix over the years signifcantly outpaces the TV Shows on the platform
+* Based on the description provided for each Movie and TV Show one can utlize NLP techniques to build a performing recommender system
+* There are more TV Shows than Movies for the 'TV-Y7' rating that's suitable for children 
+The findings can be found in the Jupyter Notebook 
+[Netflix_2019](../blob/udacity_dsnd/Project 1 - Data Science Blog/Netflix_2019 .ipynb)
+
+### Licensing Acknowledgements
+Thanks to Kaggle for providing the dataset through the community
+
+
