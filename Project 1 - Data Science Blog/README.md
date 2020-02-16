@@ -25,6 +25,7 @@ The key learnings from the analysis are :
 * There are more TV Shows than Movies for the 'TV-Y7' rating that's suitable for children 
 
 The findings can be found in the Jupyter Notebook [Netflix_2019](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%201%20-%20Data%20Science%20Blog/Netflix_2019%20.ipynb)
+
 Results and discussion published on Medium:[ Netflix : What to watch next ? War between TV Shows and Movies](https://medium.com/@adiithya.h/netflix-content-war-between-tv-shows-and-movies-40b23ca2588a)
 
 ### Licensing Acknowledgements
