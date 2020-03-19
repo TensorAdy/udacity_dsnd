@@ -18,5 +18,8 @@ The goal of the project is to build a machine learning pipeline that is able cla
 2. Model export  : `python model/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 3. Web app : `python run.py` access the app via link shown after the script is run
 
+### The UI endpoint 
+![UI frontend of the app](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%202%20-%20Disaster%20Response%20Pipeline/app%20fontend%20-%20'I%20need%20water'.png)
+
 
 
