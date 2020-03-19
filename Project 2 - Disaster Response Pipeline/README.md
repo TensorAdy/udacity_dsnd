@@ -14,8 +14,8 @@ The goal of the project is to build a machine learning pipeline that is able cla
 * Model files : The actual pickle model could not be uploaded due to size constarints it's 100.3 mb but I have uploaded it to [Google Drive](https://drive.google.com/file/d/1YbsN7-XnlnaUClGkhrjCkUzM0WWQt_bx/view?usp=sharing)
 
 ## Reproducing the ML model and the app
-1. ETL pipeline : `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db'
-2. Model export  : `python model/train_classifier.py data/DisasterResponse.db models/classifier.pkl'
+1. ETL pipeline : `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+2. Model export  : `python model/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
 3. Web app : `python run.py` access the app via link shown after the script is run
 
 
