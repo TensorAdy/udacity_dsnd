@@ -10,7 +10,7 @@ The goal of the project is to build a machine learning pipeline that is able cla
 * train_classifier.py: This is the script used to build, finetune, evaluate a model and to export it to pickle file that forms the basis for servinhg the model in production. This script is found in *model* folder  
 * run.py: This is the script used for the web app, starting the server and prepare visualizations. This script is found in the *app* folder
 * Data files : disaster_categories.csv, disaster_messages.csv, DisasterResponse.db all found the *data* folder
-* App files : go.html, master.html found in the *app* folder
+* App files : go.html, master.html found in the *app* folder inside templates folder 
 * Model files : The actual pickle model could not be uploaded due to size constarints it's 100.3 mb but I have uploaded it to [Google Drive](https://drive.google.com/file/d/1YbsN7-XnlnaUClGkhrjCkUzM0WWQt_bx/view?usp=sharing)
 
 ## Reproducing the ML model and the app
