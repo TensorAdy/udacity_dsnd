@@ -5,7 +5,7 @@ The goal of the project is to build a machine learning pipeline that is able cla
 
 ## Folder and File Description 
 * [ETL Pipeline Preparation.ipynb](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%202%20-%20Disaster%20Response%20Pipeline/ETL%20Pipeline%20Preparation.ipynb): Here experiments are run to build the piepline and push the trasnformed data into a datbase 
-* [ML Pipeline Preparation.ipynb](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%202%20-%20Disaster%20Response%20Pipeline/ML%20Pipeline%20Preparation.ipynb): Here experiments are run to build a multiclass calassifier and export the best model as a pickle file 
+* [ML Pipeline Preparation.ipynb](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%202%20-%20Disaster%20Response%20Pipeline/ML%20Pipeline%20Preparation.ipynb): Here experiments are run to build a multiclass classifier and export the best model as a pickle file 
 * process_data.py: This is script used for performing ETL on the data and storing the transformed data into a Sqllite database. This script is found in the *data* folder
 * train_classifier.py: This is the script used to build, finetune, evaluate a model and to export it to pickle file that forms the basis for servinhg the model in production. This script is found in *model* folder  
 * run.py: This is the script used for the web app, starting the server and prepare visualizations. This script is found in the *app* folder
