@@ -21,5 +21,7 @@ The goal of the project is to build a machine learning pipeline that is able cla
 ### The UI endpoint 
 ![UI frontend of the app](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%202%20-%20Disaster%20Response%20Pipeline/app%20fontend%20-%20'I%20need%20water'.png)
 
+![additional graphs](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%202%20-%20Disaster%20Response%20Pipeline/app%20-%202%20additional%20charts%20.png)
+
 
 
