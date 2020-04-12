@@ -7,5 +7,5 @@ For this project you will analyze the interactions that users have with articles
 4. Content Based Recommendations (EXTRA - NOT REQUIRED)
 5. Matrix Factorization
 ## Solution 
-The Jupyter notebook [Recommendations_with_IBM.ipynb] (https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%203%20-%20Recommendations%20with%20IBM/Recommendations_with_IBM.ipynb)
+The Jupyter notebook [Recommendations_with_IBM.ipynb](https://github.com/TensorAdy/udacity_dsnd/blob/master/Project%203%20-%20Recommendations%20with%20IBM/Recommendations_with_IBM.ipynb) provides a complete walthrough of the tasks
 
