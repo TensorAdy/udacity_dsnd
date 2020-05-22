@@ -14,7 +14,7 @@ A technical analysis on exploring the data, feature engineering, modeling buildi
 * Datset medium-sparkify-event-data.json available on Udacity Platform
 
 ### File descriptions 
-* The churn modeling is available in the Jupyter notebook [sparkify.ipynb](https://github.com/TensorAdy/udacity_dsnd/blob/master/Capstone-Sparkify/sparkify.ipynb)
+* The churn modeling is available under Capstone-Sparkify in the Jupyter notebook format [sparkify.ipynb](https://github.com/TensorAdy/udacity_dsnd/blob/master/Capstone-Sparkify/sparkify.ipynb)
 * It's also available on the [IBM watson cloud platform](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/5a014afb-4d6c-47fa-8b3d-f8a044fb9db2/view?access_token=20dc97d2323d16aec720b08962f1cbbeea906c4aa0cdcac2816986b89b03c79f)
 
 ### Environment 
