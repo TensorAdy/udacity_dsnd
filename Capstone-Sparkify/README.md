@@ -6,7 +6,7 @@
 A fictional music streaming company, called Sparkify has a problem of churn. In this Capstone Project, we are provided with a dataset to understand the causes of churn and then build a model which has relevant features for predicting customer churn utilizing Apache Spark.
 
 ### Analyis
-A technical analysis on exploring the data, feature engineering, modeling building and evaluation can be found here [Medium blog](https://medium.com/@adiithya.h/predicting-customer-churn-with-spark-d899fbe0fd9)
+A technical analysis on exploring the data, feature engineering, modeling building and evaluation can be found here : [Medium blog](https://medium.com/@adiithya.h/predicting-customer-churn-with-spark-d899fbe0fd9)
 
 ### Dataset 
 * Format : JSON
